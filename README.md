@@ -95,8 +95,8 @@ This project activates a fan when the temperature exceeds 70°F. It also display
 
 ## Images / Videos
 
-- ![Fan On]()
-- ![Fan]()
+- ![Fan On](1000002925.jpg)
+- ![Fan](1000002904.jpg)
 
 ---
 
